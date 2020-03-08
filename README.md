@@ -50,5 +50,7 @@ If you want to report a problem or give a suggestion, feel free to [open an issu
 #
 #
 <p align="center">
+<a href="https://creativecommons.org/licenses/by/4.0/">
 <img align="center" width="88" height="31" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
- </p>
+ </a>
+ </p>)
