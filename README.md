@@ -25,14 +25,20 @@ Brazil is facing a setback in environmental policies and science funding as both
 
 <b>The solution</b>
 
-@Biodiversity in Focus will set a social media platform where Brazilian-based scientistics focused in biodiversity may share their experiences in research and their knowledge about biodiversity. In addition, account curation will be mostly performed by graduate students, which will be able to develop SciComm skills.
+@Biodiversity in Focus will set a social media platform where Brazil-based scientistics focused in biodiversity may share their experiences in research and their knowledge about biodiversity. In addition, account curation will be mostly performed by graduate students, which will be able to develop SciComm skills.
 
 # Who are we?
 
 # What do we need?
+We would love any feedback along our way to create this platform for SciComm.
+The account will be curated by different researchers every week. As we are focused in a Brazilian audience, we need curators that study speak portuguese and are primarily focused on Brazilian biodiversity.
 
 # Get involved
+If you can help in any of the above areas or anything we haven't thought, check our contributors' guidelines. We want to keep a safe and positive environment for everyone involved in the project, so we ask you to follow the code of conduct in all offline and online interactions you may have.
 
 # Contact us
+If you want to report a problem or give a suggestion, feel free to [open an issue](https://github.com/bruno-soares/-Biodiversity-in-Focus---OLS/issues) at the github repository. Issues will be readily taken into consideration. If you prefer, you can contact [Bruno](https://github.com/bruno-soares) directly by email (soares.e.bruno@gmail.com) or by [twitter](https://twitter.com/Bruno_E_Soares).
 
 # Find out more
+TO EDIT
+LINKS TO: ROADMAP, CONTRIBUTORS GUIDELINES, OUR OPEN CANVAS.
