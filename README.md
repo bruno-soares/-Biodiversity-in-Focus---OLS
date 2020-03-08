@@ -28,6 +28,9 @@ Brazil is facing a setback in environmental policies and science funding as both
 @Biodiversity in Focus will set a social media platform where Brazil-based scientistics focused in biodiversity may share their experiences in research and their knowledge about biodiversity. In addition, account curation will be mostly performed by graduate students, which will be able to develop SciComm skills.
 
 # Who are we?
+The founders of @Biodiversidade em Foco (@Biodiversity in Focus, in English) are [Bruno Soares](https://www.researchgate.net/profile/Bruno_Soares8) and [Naraiana Benone](https://www.researchgate.net/profile/Naraiana_Benone2). We are friends that worked in the same lab in [UFPA](https://portal.ufpa.br/) in 2012. Since then, we are part of different research groups, but we keep working together. Both of our researches are focused in aquatic ecology. We also have two invited members: Romullo Lima and Lídia Aguiar. They are graduate students in [UFPA](https://portal.ufpa.br/) and [UFRJ](https://ufrj.br/) and also have their projects focused on aquatic ecology.
+
+The development of this project is mentored by [Renato Alves](https://github.com/unode) in [Open Life Science](https://openlifesci.org/ols-1).
 
 # What do we need?
 We would love any feedback along our way to create this platform for SciComm.
