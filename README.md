@@ -40,5 +40,5 @@ If you can help in any of the above areas or anything we haven't thought, check 
 If you want to report a problem or give a suggestion, feel free to [open an issue](https://github.com/bruno-soares/-Biodiversity-in-Focus---OLS/issues) at the github repository. Issues will be readily taken into consideration. If you prefer, you can contact [Bruno](https://github.com/bruno-soares) directly by email (soares.e.bruno@gmail.com) or by [twitter](https://twitter.com/Bruno_E_Soares).
 
 # Find out more
-TO EDIT
-LINKS TO: ROADMAP, CONTRIBUTORS GUIDELINES, OUR OPEN CANVAS.
+[Roadmap](https://docs.google.com/document/d/1dmNMAPtkuhzkAFHZHvmrOb2WF5xqJSRXQPMr_AvqHC4/edit?usp=sharing)
+[Open Canvas](https://docs.google.com/presentation/d/10s6TBOQeor2duTDjHNickkdSLgWo1eJsaAwLevXSshQ/edit?usp=sharing)
