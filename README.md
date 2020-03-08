@@ -20,9 +20,11 @@ This document was built to give you the basic information about the project. You
 
 # What are we doing?
 <b>The problem</b>
+
 Brazil is facing a setback in environmental policies and science funding as both are not priorities for the general public and current government. This is a historical issue in Brazil due to complex factors, and one of these factors is the low engagement of scientists with the general public and the low levels of education countrywide. Even when scientists are engaged in science communication (SciComm)and outreach activities, these are predominantly in local scale and based in an information deficit model. This generally occurs because scientists in Brazil do not experience a formal training for SciComm and quite often try to learn after graduate school in a trial and error learning basis.
 
 <b>The solution</b>
+
 @Biodiversity in Focus will set a social media platform where Brazilian-based scientistics focused in biodiversity may share their experiences in research and their knowledge about biodiversity. In addition, account curation will be mostly performed by graduate students, which will be able to develop SciComm skills.
 
 # Who are we?
